@@ -1,0 +1,9 @@
+body{
+background: linear-gradient(to right, #818181, #000000)
+}
+a{
+color: rgb(53, 53, 53);
+font-size: 20px;
+text-decoration: none;
+font-weight: bold;
+}

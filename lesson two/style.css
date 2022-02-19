@@ -1,0 +1,18 @@
+th,td,tr{
+border: 1px solid black; 
+}
+table{
+border-collapse:collapse ;
+}
+img{
+width: 100px;    
+}
+body{
+    background:linear-gradient(to right, #fefcea, #ee9074)
+}
+th:hover,td:hover,tr:hover{
+    background-color: rgb(220, 20, 20);
+    border: 5px black solid;
+}
+
+

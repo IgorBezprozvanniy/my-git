@@ -1,0 +1,43 @@
+*, ::after::before{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.con{
+    display: flex;
+}
+.container{
+    font-size: 100px;
+    color: rgb(224, 1, 1);
+    width: 125px;
+    border-radius: 40px;
+}
+.container1{
+    font-size: 100px;
+    color: rgb(224, 109, 1);
+    width: 125px;
+    border-radius: 40px;
+}
+.container:hover{
+    font-size: 110px;
+    color: rgb(250, 39, 39);
+    box-shadow: 0 0 20px black
+}
+.container1:hover{
+    font-size: 100px;
+    color: rgb(255, 144, 41);
+    box-shadow: 0 0 20px black;
+}
+.container:active{
+    font-size: 110px;
+    color: rgb(0, 0, 0);
+    width: 125px;
+    border-radius: 40px;
+}
+.container1:active{
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+    width: 125px;
+    border-radius: 40px;
+}

@@ -1,0 +1,384 @@
+
+         <div class="container">
+      <header>
+         <ul class="nav nav-tabs">
+            <a href=""><img src="C:\Shpigeli\FinalWork1\search_black_24dp.svg" alt="" class="nav-item"></a>
+            <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Отели</a>
+               <ul class="dropdown-menu">
+                 <li><a class="dropdown-item" href="#">Action</a></li>
+                 <li><a class="dropdown-item" href="#">Another action</a></li>
+                 <li><a class="dropdown-item" href="#">Something else here</a></li>
+                 <li><hr class="dropdown-divider"></li>
+                 <li><a class="dropdown-item" href="#">Separated link</a></li>
+               </ul>
+             </li>
+             <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Страны</a>
+               <ul class="dropdown-menu">
+                 <li><a class="dropdown-item" href="#">Action</a></li>
+                 <li><a class="dropdown-item" href="#">Another action</a></li>
+                 <li><a class="dropdown-item" href="#">Something else here</a></li>
+                 <li><hr class="dropdown-divider"></li>
+                 <li><a class="dropdown-item" href="#">Separated link</a></li>
+               </ul>
+             </li>
+             <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Авиа</a>
+               <ul class="dropdown-menu">
+                 <li><a class="dropdown-item" href="#">Action</a></li>
+                 <li><a class="dropdown-item" href="#">Another action</a></li>
+                 <li><a class="dropdown-item" href="#">Something else here</a></li>
+                 <li><hr class="dropdown-divider"></li>
+                 <li><a class="dropdown-item" href="#">Separated link</a></li>
+               </ul>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="#">Каталог Туров</a>
+             </li>
+             <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Агентам</a>
+               <ul class="dropdown-menu">
+                 <li><a class="dropdown-item" href="#">Action</a></li>
+                 <li><a class="dropdown-item" href="#">Another action</a></li>
+                 <li><a class="dropdown-item" href="#">Something else here</a></li>
+                 <li><hr class="dropdown-divider"></li>
+                 <li><a class="dropdown-item" href="#">Separated link</a></li>
+               </ul>
+             </li>
+             <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">О Нас</a>
+               <ul class="dropdown-menu">
+                 <li><a class="dropdown-item" href="#">Action</a></li>
+                 <li><a class="dropdown-item" href="#">Another action</a></li>
+                 <li><a class="dropdown-item" href="#">Something else here</a></li>
+                 <li><hr class="dropdown-divider"></li>
+                 <li><a class="dropdown-item" href="#">Separated link</a></li>
+               </ul>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="#">Блог</a>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="#">FAQ</a>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="#">Контакты</a>
+             </li>
+         </ul>
+      </header>
+      <div class="black">
+         <img src="C:\Shpigeli\FinalWork1\maxresdefault.png" alt="">
+      <div class="bucks"> 
+         <p> От 300 € за сутки</p>
+      </div>
+      <div class="h1">
+         <h1>НОВЫЙ ЭКО-ОТЕЛЬ МASTILA</h1>
+         <h1>НА О.ХВАР В ХОРВАТИИ</h1>
+      </div>
+      <div class="btnpodr">
+         <p> ПОДРОБНЕЕ</p>
+      </div>
+      </div>
+      <div class="bot1">
+        <div class="bfirst">
+          <h2>ВАШ ТУРОПЕРАТОР ВЫСОКОГО</h2> 
+          <h2>УРОВНЯ ОБСЛУЖИВАНИЯ.</h2>
+          <p> Откройте мир путешествий заново.</p>
+          <button class="btnfirst">
+            <p>Что мы предлагаем?</p>
+          </button>
+          <button class="btnsecond">
+            <p>Консультация</p>
+          </button>
+        </div>
+        <div class="bsecond">
+          <h4>ИНДИВИДУАЛЬНЫЙ ПОДХОД</h4>
+          <h4>КОНСЬЕРЖ-СЕРВИС</h4>
+          <h4>ПРЕМИУМ-КЛАССА</h4>
+        </div>
+      </div>
+      <div class="besth">
+        <div class="top1">
+          <h2>ЛУЧШИЕ ОТЕЛИ</h2>
+           <img src="C:\Shpigeli\FinalWork1\arrow_circle_left_black_24dp.svg" alt="4" class="arrow1">
+           <img src="C:\Shpigeli\FinalWork1\arrow_circle_right_black_24dp.svg" alt="" class="arrow2"> 
+           <div class="top2">
+           <button class="allh"><p>Все отели</p></button>
+           </div>
+        </div>
+          <div class="hotells">
+            <img src="C:\Shpigeli\FinalWork1\card1back.png" alt="" class="hot1">
+            <img src="C:\Shpigeli\FinalWork1\card2back.png" alt="" class="hot2">
+            <img src="C:\Shpigeli\FinalWork1\card3back.png" alt="" class="hot3">
+          </div>
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star1">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star1">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star1">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star1">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star1">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star2">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star2">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star2">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star2">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star2">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star3">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star3">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star3">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star3">
+          <img src="C:\Shpigeli\FinalWork1\Vector.svg" alt="" class="star3">
+          <p class="p1">One&Only Portonovi</p>
+          <p class="p2">Зимовка в Regent</p>
+          <p class="p2">Porto Montenegro</p>
+          <p class="p3">Лечение в Naftalan с</p>
+          <p class="p3">авиа Киев-Загреб-Киев</p>
+      </div>
+      <div class="anotherh">
+        <div class="anhhead">
+          <h2>АКТУАЛЬНЫЕ ТУРЫ </h2> 
+          <button><p>Все туры</p></button>
+        </div>
+        <div class="anhcards">
+          <div class="cardh1">
+            <img src="C:\Shpigeli\FinalWork1\mandarina 2.png" alt="">
+            <h4>
+              One&Only Portonovi
+            </h4>
+            <p class="pcard1">
+              Первый ультрароскошный курорт One&Only в Европе
+            </p>
+            <div class="botcard">
+            <div class="botcard1">
+            <p class="pcard2">
+              от 818 €
+            </p>
+            <p class="pcard3">
+              за номер в сутки в сезон
+            </p>
+            </div>
+            <div class="botcard2">
+              <p class="pcard4">
+                от 3 ночей с 01 мая 2021
+              </p>
+            </div>
+            </div>
+          </div>
+          <div class="cardh2">
+            <img src="C:\Shpigeli\FinalWork1\1491655 1.png" alt="">
+            <h4>
+              Porto Montenegro
+            </h4>
+            <p class="pcard1">
+              Це втілення високого стилю, в якому поєднується зручність...
+            </p>
+            <div class="botcard">
+            <div class="botcard1">
+            <p class="pcard2">
+              от 938 €
+            </p>
+            <p class="pcard3">
+              за номер в сутки в сезон
+            </p>
+            </div>
+            <div class="botcard2">
+              <p class="pcard4">
+                от 3 ночей с 01 мая 2021
+              </p>
+            </div>
+            </div>
+          </div>
+          <div class="cardh3">
+            <img src="C:\Shpigeli\FinalWork1\276398231 1.png" alt="">
+            <h4>
+              Лечение в Naftalan
+            </h4>
+            <p class="pcard1">
+              первый бренд, воплотивший оригинальную...
+            </p>
+            <div class="botcard">
+            <div class="botcard1">
+            <p class="pcard2">
+              от 175 €
+            </p>
+            <p class="pcard3">
+              за номер в сутки в сезон
+            </p>
+            </div>
+            <div class="botcard2">
+              <p class="pcard4">
+                от 3 ночей с 01 мая 2021
+              </p>
+            </div>
+            </div>
+          </div>
+          <img src="C:\Shpigeli\FinalWork1\arrow_circle_right_black_24dp.svg" alt="" class="ar">
+        </div>
+        <div class="forma">
+          <div class="formtop">
+            <img src="C:\Shpigeli\FinalWork1\Vector1.svg" alt="" class="formaimg"> <p>Откуда</p>
+            <img src="C:\Shpigeli\FinalWork1\Vector (1).svg" alt="" class="formaimg"> <p>Куда (страна)</p>
+            <img src="C:\Shpigeli\FinalWork1\Vector (2).svg" alt="" class="formaimg"> <p>Дата заезда</p>
+            <img src="C:\Shpigeli\FinalWork1\perm_identity_black_24dp.svg" alt="" class="formaimg"> <p>Туристы</p>
+            <img src="C:\Shpigeli\FinalWork1\Vector (3).svg" alt="" class="formaimg"> <p>Ночей</p>
+          </div>
+          <div class="formabot">
+            <form action="#">
+              <input type="search" name="sus" class="input1">
+              <input type="text" name="example" list="exampleList" class="input2">
+                <datalist id="exampleList">
+                <option value="017">
+                <option value="018">
+                <option value="019">
+                </datalist>
+                <input type="text" name="example" list="exampleList" class="input3">
+                  <datalist id="exampleList">
+                  <option value="017">
+                  <option value="018">
+                  <option value="019">
+                  </datalist>
+                <input type="text" name="sus" class="input4">
+                <input type="text" name="example" list="exampleList" class="input5">
+                  <datalist id="exampleList">
+                  <option value="017">
+                  <option value="018">
+                  <option value="019">
+                  </datalist>
+                  <button class="formabtn"> <p> Найти </p></button>
+            </form>
+          </div>
+        </div>
+        <div class="novosti">
+          <div class="novostitop">
+            <h2>ВАЖНЫЕ НОВОСТИ</h2>
+            <button>
+              <p>Новые Новости</p>
+            </button>
+          </div>
+          <div class="novostibot">
+            <img src="C:\Shpigeli\FinalWork1\arrow_circle_left_black_24dp.svg" alt="" class="ar">
+            <div class="newcard">
+              <img src="https://mail.google.com/mail/u/1?ui=2&ik=a8e106df88&attid=0.0.3&permmsgid=msg-a:r-8965703314973129384&th=17dcd54a46067c99&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-FIpqw8RBTpnp9DXEw2oy76BfL_J9015RxoIc8sfkBUTk5d899H3uOKBCGx-Hd3JXn39mLLle-EkLUFLKwxhbG4HrI4eLW_DseyKG25EQN2sXxYi7qlKy7h8E&disp=emb&realattid=ii_kxbquhlk10" alt="">
+              <div class="march">
+              <img src="C:\Shpigeli\FinalWork1\Vector (2).svg" alt="">
+              <p>18 марта, 2021</p>
+              </div>
+              <h4>Зимовка в Regent</h4>
+              <h4>Porto Montenegro</h4>
+              <h6>Подробнее</h6>
+            </div>
+            <div class="newcard">
+              <img src="https://mail.google.com/mail/u/1?ui=2&ik=a8e106df88&attid=0.0.2&permmsgid=msg-a:r-8965703314973129384&th=17dcd54a46067c99&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ86pN9gnX4qjGVju2SFQ_BrA6vXP_GW3m6ZIFW3pelGHYQz_-a56b8nBrpliskfpneAyOAzXSkDEFPGwQAivJWyhx8BK2ahyvh7KZaAGO49RetbRB4iP3Z2lX0&disp=emb&realattid=ii_kxbqugk99" alt="">
+              <div class="march">
+              <img src="C:\Shpigeli\FinalWork1\Vector (2).svg" alt="">
+              <p>18 марта, 2021</p>
+              </div>
+              <h4>Зимовка в Regent</h4>
+              <h4>Porto Montenegro</h4>
+              <h6>Подробнее</h6>
+            </div>
+            <div class="newcard">
+              <img src="https://mail.google.com/mail/u/1?ui=2&ik=a8e106df88&attid=0.0.5&permmsgid=msg-a:r-8965703314973129384&th=17dcd54a46067c99&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_3lVFBJaHzDcxi9vHZdg7c_2eBNgLHaokfY4uH93BfGPqJoBUlN6uZ5UOnRsE7KNfGGeonZeVN7BDXdYq-fNlmHAiMDx-YhqQWYgQsmARDfUJ45yTcsWH9FZs&disp=emb&realattid=ii_kxbqum7l12" alt="">
+              <div class="march">
+              <img src="C:\Shpigeli\FinalWork1\Vector (2).svg" alt="">
+              <p>18 марта, 2021</p>
+              </div>
+              <h4>Зимовка в Regent</h4>
+              <h4>Porto Montenegro</h4>
+              <h6>Подробнее</h6>
+            </div>
+            <div class="newcard">
+              <img src="https://mail.google.com/mail/u/1?ui=2&ik=a8e106df88&attid=0.0.4&permmsgid=msg-a:r-8965703314973129384&th=17dcd54a46067c99&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8QK466S4iKb1vLH4_vQCGdon_FIygZ8F2ndj5fw5ZxN_HInbEc1iqxwY8ZifBiDwp5OxryRhfpVF3TckTbjDh9gT0qLngMPpsjM9WPJtBY83RBY354AZ_zKQo&disp=emb&realattid=ii_kxbqujcf11" alt="">
+              <div class="march">
+              <img src="C:\Shpigeli\FinalWork1\Vector (2).svg" alt="">
+              <p>18 марта, 2021</p>
+              </div>
+              <h4>Зимовка в Regent</h4>
+              <h4>Porto Montenegro</h4>
+              <h6>Подробнее</h6>
+            </div>
+            <img src="C:\Shpigeli\FinalWork1\arrow_circle_right_black_24dp.svg" alt="" class="ar">
+          </div>
+        </div>
+        <div class="blog">
+          <div class="blogtop">
+            <h2>БЛОГ</h2>
+            <button>
+              <p>Все Статьи</p>
+            </button>
+          </div>
+          <div class="blogbot">
+            <div class="arrows">
+            <img src="C:\Shpigeli\FinalWork1\arrow_circle_left_black_24dp.svg" alt="" class="ar">
+            <img src="C:\Shpigeli\FinalWork1\arrow_circle_right_black_24dp.svg" alt="" class="ar">
+          </div>
+          <div class="newcard1">
+            <img src="https://mail.google.com/mail/u/1?ui=2&ik=a8e106df88&attid=0.0.1&permmsgid=msg-a:r-8965703314973129384&th=17dcd54a46067c99&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9ya78--S8oSAaQBU0QB9dRt6yxHS1wKi0vpQx2y2T_QwR6ZHtJj7MHgPrWavwDPZDHyFETIWr5c3ChkQiXN8onbI-xPBxOIiS_yVHxwxze1CDKvUauvWIa3hs&disp=emb&realattid=ii_kxbquepg8" alt="">
+            <div class="march">
+            <img src="C:\Shpigeli\FinalWork1\Vector (2).svg" alt="">
+            <p>18 марта, 2021</p>
+            </div>
+            <h4>Зимовка в Regent</h4>
+            <h4>Porto Montenegro</h4>
+            <div class="march1">
+            <h6>Подробнее</h6>
+            <img src="C:\Shpigeli\FinalWork1\strelka.svg" alt="">
+          </div>
+          </div>
+          <div class="newcard1">
+            <img src="https://mail.google.com/mail/u/1?ui=2&ik=a8e106df88&attid=0.0.6&permmsgid=msg-a:r-8965703314973129384&th=17dcd54a46067c99&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-BOV_hBPCW1m9nNcR8j_-LCKD50_CDadTm-xkQCPv9qcAFhK8rSu3QV0Y5siWuv0Mr9kgbN0yIdbZEQ_xAomrcLOkebMCm5lF46fDHEyxKd48Z0JYEqImf4kY&disp=emb&realattid=ii_kxbqur8314" alt="">
+            <div class="march">
+            <img src="C:\Shpigeli\FinalWork1\Vector (2).svg" alt="">
+            <p>18 марта, 2021</p>
+            </div>
+            <h4>Зимовка в Regent</h4>
+            <h4>Porto Montenegro</h4>
+            <div class="march1">
+              <h6>Подробнее</h6>
+              <img src="C:\Shpigeli\FinalWork1\strelka.svg" alt="">
+            </div>
+          </div>
+          <div class="newcard1">
+            <img src="C:\Shpigeli\FinalWork1\завантаження 1.png" alt="">
+            <div class="march">
+            <img src="C:\Shpigeli\FinalWork1\Vector (2).svg" alt="">
+            <p>18 марта, 2021</p>
+            </div>
+            <h4>Зимовка в Regent</h4>
+            <h4>Porto Montenegro</h4>
+            <div class="march1">
+              <h6>Подробнее</h6>
+              <img src="C:\Shpigeli\FinalWork1\strelka.svg" alt="">
+            </div>
+          </div>
+          <div class="newcard1 invalid">
+            <img src="https://mail.google.com/mail/u/1?ui=2&ik=a8e106df88&attid=0.0.7&permmsgid=msg-a:r-8965703314973129384&th=17dcd54a46067c99&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ--S_ly6vdLLKrbrwgNG0q97jUuDOXhRYKm8SJVnnQ41bOMiH9Z6t6Q3s1jokNM_X7E0m5pseiwSpEbgChYmQMrQR4YzKFGhvFJhVJa-pjnPLeSdyS4ZqN-V7Y&disp=emb&realattid=ii_kxbqwcnc15" alt="">
+            <div class="march">
+            <img src="C:\Shpigeli\FinalWork1\Vector (2).svg" alt="">
+            <p>18 марта, 2021</p>
+            </div>
+            <h4>Зимовка в Regent</h4>
+            <h4>Porto Montenegro</h4>
+            <div class="march1">
+              <h6>Подробнее</h6>
+              <img src="C:\Shpigeli\FinalWork1\strelka.svg" alt="">
+            </div>
+          </div>
+          </div>
+        </div>
+        <div class="gmailform">
+          <div class="gmailtop">
+            <h2>ПУТЕШЕСТВУЙ С Valanta Travel Company!</h2>
+            <h6>Подписывайтесь на нашу рассылку!</h6>
+          </div>
+          <div class="gmailbot">
+            <form action="#">
+              <input type="email" name="" class="emailo">
+              <input type="radio" class="radio" name="contact" value="email">
+              <label for="contactChoice1">Я Турист</label>
+              <input type="radio" class="radio" name="contact" value="phone">
+              <label for="contactChoice2">Я Турагент</label>
+              <button class="send"><p>Отправить</p></button>
+            </form>
+          </div>
+        </div>
+      </div>

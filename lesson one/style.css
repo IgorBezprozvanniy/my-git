@@ -1,0 +1,22 @@
+body{ 
+background: linear-gradient(to right, #858585, #000000);
+}
+a {
+color: rgb(0, 0, 0);
+font-size: 20px;
+text-decoration: none;
+font-weight: bold;
+}
+img{
+background-color: chartreuse;
+border-radius: 50% ;
+}
+ul{
+list-style-type:square;
+}
+ul li a{
+color: rgb(53, 53, 53);
+
+}
+
+

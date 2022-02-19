@@ -1,0 +1,89 @@
+@import 
+url('https://fonts.googleapis.com/css2? family = Roboto: wght @ 900 & display = swap');
+*{
+padding: 0%;    
+margin: 0%;
+box-sizing: border-box;
+}
+body{
+background-color: rgb(199, 199, 199);
+color:rgb(44, 44, 44) ;
+font-size: 16px;
+font-weight: normal;
+font-family:"Roboto",sans-serif;
+}
+caption{
+text-align: center; 
+margin-top: 25px;
+font-size: 48px;
+}
+h2{
+font-size: 25px;
+margin-bottom: 5px;
+}
+h3{
+font-size: 15;
+margin-bottom: 5px;
+}
+ul{
+list-style-type: none;
+}
+.sus{
+width: 1000px;
+height: 800px;
+border-spacing: 25px;
+margin: 15px auto;
+}
+.sus2, .sus3{
+border-radius: 5px;
+margin: 0 10px;
+padding: 0 20px;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.main2{
+width: 700px;
+}
+.main1{
+width: 1250px;
+}
+.main1 td{
+width: 450px;
+text-align: center;
+padding: 10px 0;
+border-bottom: 1px solid rgb(0, 0, 0);
+}
+.push{
+text-align: center;
+}
+.main2 td{
+text-align: center;
+padding: 10px 0;
+border-bottom: 1px solid rgb(0, 0, 0);
+width: 1250px;
+height: 150px;
+}
+.btn{
+text-decoration: none;
+padding: 10px 30px;
+color: rgb(0, 255, 255);
+background-color: rgb(0, 122, 124);
+font-size: 20px;
+}
+.btn-contact{
+padding: 20px 80px;
+}
+.btn:hover{
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.main1 img{
+width: 200px;
+}
+a{
+color: dimgray;
+}
+
+
+
+
+
+
